@@ -1,1 +1,1 @@
-npm add react-icons
+demo: https://nextjs-netfilms.vercel.app/
